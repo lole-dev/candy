@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(150, 7, 150);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(242, 160, 160);
+
+}
+header a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(242, 30, 83);
+    border: 1px solid black;
+    font-size: 23px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 5px;
+}
+main h2{
+    color: rgb(229, 187, 35);
+}
+main p2{
+    color: rgb(229, 187, 35);
+}
+main h3{
+    color: rgb(255, 0, 0);
+    
+}
+main p3{
+    color: rgb(255, 0, 0);
+}
